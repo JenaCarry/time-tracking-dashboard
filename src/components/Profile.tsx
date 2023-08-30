@@ -23,7 +23,7 @@ export function Profile({ order, setOrder }: IProfile) {
             includes a denim jacket, which adds to his urban look. With his
             confident demeanor, he stands out effortlessly in the vibrant
             surroundings, showcasing his unique personality and individuality.
-            The black man's striking appearance of him, highlighted by his
+            The black man{"'"}s striking appearance of him, highlighted by his
             distinctive hairstyle of him, reinforces his sense of
             self-expression as he navigates the energetic cityscape.
           </figcaption>
