@@ -5,7 +5,7 @@
   <h2>Time tracking dashboard</h2>
 
   <h3>
-    <a href="https://www.frontendmentor.io/solutions/todo-app-Xd2XKWu4p2">
+    <a href="https://www.frontendmentor.io/solutions/time-tracking-dashboard-ltNMK8l-LL">
       <strong>Frontend Mentor</strong>
     </a>
   </h3>
@@ -34,7 +34,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 <h2>Links</h2>
 
-- Solution URL: [Time tracking dashboard | Frontend Mentor]()
+- Solution URL: [Time tracking dashboard | Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-ltNMK8l-LL)
 - Live Site URL: [https://time-tracking-dashboard-liard.vercel.app/](https://time-tracking-dashboard-liard.vercel.app/)
 
 <br>
