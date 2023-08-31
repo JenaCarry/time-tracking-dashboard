@@ -30,8 +30,15 @@ export function ProfileData({ order }: ProfileDataProps) {
                   {item.timeframes[order].current}hrs
                 </p>
                 <p className="text-primary-text">
-                  Last <span className="capitalize">{order}</span> -{" "}
-                  {item.timeframes[order].previous}hrs
+                  Last{" "}
+                  <span className="capitalize">
+                    {order === "daily"
+                      ? "day"
+                      : order === "weekly"
+                      ? "week"
+                      : "month"}
+                  </span>{" "}
+                  - {item.timeframes[order].previous}hrs
                 </p>
               </div>
             </div>
