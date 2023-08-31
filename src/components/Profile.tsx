@@ -31,7 +31,7 @@ export function Profile({ order, setOrder }: IProfile) {
         <div>
           <h2 className="text-primary-text flex flex-col">
             Report for
-            <span className="text-white text-xl font-light lg:text-4xl">
+            <span className="text-white text-xl font-light sm:text-2xl md:text-3xl lg:text-4xl">
               Jeremy Robson
             </span>
           </h2>
