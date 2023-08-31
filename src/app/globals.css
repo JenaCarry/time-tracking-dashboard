@@ -8,6 +8,6 @@
   }
 
   button {
-    @apply text-buttons hover:text-white transition-all duration-200 ease-in-out;
+    @apply w-full text-left text-buttons hover:text-white/80 transition-all duration-200 ease-in-out;
   }
 }
