@@ -13,11 +13,11 @@
   <br>
 
   <div align="center">
-    <a href="">View Demo</a>
+    <a href="https://time-tracking-dashboard-liard.vercel.app/">View Demo</a>
     -
-    <a href="">Report Bug</a>
+    <a href="https://github.com/JenaCarry/time-tracking-dashboard/issues">Report Bug</a>
     -
-    <a href="">Request Feature</a>
+    <a href="https://github.com/JenaCarry/time-tracking-dashboard/pulls">Request Feature</a>
   </div>
 
 </div>
@@ -35,7 +35,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 <h2>Links</h2>
 
 - Solution URL: [Time tracking dashboard | Frontend Mentor]()
-- Live Site URL: []()
+- Live Site URL: [https://time-tracking-dashboard-liard.vercel.app/](https://time-tracking-dashboard-liard.vercel.app/)
 
 <br>
 
