@@ -27,7 +27,8 @@ export function ProfileData({ order }: ProfileDataProps) {
               </div>
               <div className="flex items-center justify-between lg:flex-col lg:items-start lg:gap-3">
                 <p className="text-2xl min-[425px]:text-3xl sm:text-4xl">
-                  {item.timeframes[order].current}hrs
+                  {item.timeframes[order].current}
+                  {item.timeframes[order].current > 1 ? "hrs" : "hr"}
                 </p>
                 <p className="text-primary-text">
                   Last{" "}
@@ -38,7 +39,8 @@ export function ProfileData({ order }: ProfileDataProps) {
                       ? "week"
                       : "month"}
                   </span>{" "}
-                  - {item.timeframes[order].previous}hrs
+                  - {item.timeframes[order].previous}
+                  {item.timeframes[order].previous > 1 ? "hrs" : "hr"}
                 </p>
               </div>
             </div>
